@@ -6,6 +6,8 @@
 
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
+
+
 html {
     font-family: sans-serif;
     -webkit-text-size-adjust: 100%;
@@ -228,7 +230,26 @@ td,
 th {
     padding: 0
 }
+/* ------------------------- Modifications ------------------------- */
+.SecondTextGris {
+    font-size: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 
+.SecondText {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.LightBlue {
+    color: #cfffff!important;
+}
+.SecondTextNoir {
+    font-size: 15px;
+    color: rgb(36, 36, 36)!important;
+}
+/* ------------------------- Modifications ------------------------- */
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 
 @media print {
@@ -7682,7 +7703,7 @@ button.close {
     margin: 1px;
     text-indent: -999px;
     cursor: pointer;
-    background-color: #000\9;
+    background-color: #0009;
     background-color: rgba(0, 0, 0, 0);
     border: 1px solid #fff;
     border-radius: 10px
