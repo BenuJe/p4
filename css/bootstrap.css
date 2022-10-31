@@ -230,26 +230,7 @@ td,
 th {
     padding: 0
 }
-/* ------------------------- Modifications ------------------------- */
-.SecondTextGris {
-    font-size: 15px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-}
 
-.SecondText {
-    padding-bottom: 0px;
-    margin-bottom: 0px;
-}
-
-.LightBlue {
-    color: #cfffff!important;
-}
-.SecondTextNoir {
-    font-size: 15px;
-    color: rgb(36, 36, 36)!important;
-}
-/* ------------------------- Modifications ------------------------- */
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 
 @media print {
